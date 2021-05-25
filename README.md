@@ -5,7 +5,7 @@
 - My programming skills: C, C++, Linux, Makefile, Qt
 
 ### Minimal Makefile 👋
-_Project like automatic Makefile for C and C++_
+_Automatic Makefile for C and C++_
 ```
 # build shared library with -fPIC, -shared
 CFLAGS   = -g # -O3 # -fPIC  # CXXFLAGS for .cpp
