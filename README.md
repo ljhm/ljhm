@@ -1,6 +1,6 @@
 ### Hi there 👋
-- This is Jack
-- Email: <ljh.cpp@qq.com>
+- I'm Jack
+- Email: ljh.cpp@qq.com
 - I live in Shenzhen China
 - My programming skills: C, C++, Linux, Makefile, Qt
 
