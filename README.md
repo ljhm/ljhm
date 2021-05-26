@@ -11,7 +11,7 @@ _Automatic Makefile for C and C++_
 CFLAGS   = -g # -O3 # -fPIC  # CXXFLAGS for .cpp
 LDFLAGS  = # -L../hello # -shared
 LDLIBS   = # -lhello
-CPPFLAGS = -MMD -MP  # -I../hello
+CPPFLAGS = -MMD -MP # -I../hello
 #CC      = $(CXX)  # link with CXX for .cpp
 
 # target name is basename of one of the source files
