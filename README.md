@@ -1,9 +1,3 @@
-### Hi there 👋
-- I'm Jack
-- Email: ljh_app@qq.com
-- I live in Shenzhen China
-- My programming skills: C, C++, Linux, Makefile, Autotools
-
 ### Minimal Makefile 👋
 _Automatic Makefile for C and C++_
 ```
@@ -22,7 +16,7 @@ clean : ; -rm -fr *.o *.d
 ```
 
 <!--
-**lijhj/lijhj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ljhm/ljhm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
