@@ -1,4 +1,4 @@
-### Minimal Makefile ✨
+### Minimal Makefile ⚡
 _Automatic Makefile for C and C++_
 ```
 # build shared library with -fPIC, -shared
